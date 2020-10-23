@@ -21,7 +21,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/freezesoul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="freezesoul" height="30" width="40" /></a>
+<a href="https://twitter.com/freezesoul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/twitter.svg" alt="freezesoul" height="30" width="40" /></a>
+<a href="https://www.weibo.com/37888235" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/sinaweibo.svg" alt="freezesoul" height="30" width="40" /></a>
+<a href="https://www.douban.com/people/FreezeSoul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/douban.svg" alt="freezesoul" height="30" width="40" /></a>
+<a href="https://www.zhihu.com/people/FreezeSoul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/zhihu.svg" alt="freezesoul" height="30" width="40" /></a>
+<a href="https://space.bilibili.com/22079420" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/bilibili.svg" alt="freezesoul" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
