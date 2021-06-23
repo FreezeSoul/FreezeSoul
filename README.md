@@ -5,13 +5,13 @@ I am currently focusing on the project --- DataColour. [Document](http://doc.dat
 
 <p align="left"> <img src="http://doc.datacolour.cn/dvp/visualeditor.jpg" alt="datacolour" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=freezesoul&label=Profile%20views&color=0e75b6&style=flat" alt="freezesoul" /> </p>
+
 - 👯 I’m currently working on： [DataColour](https://gitee.com/DataColour)
 
 - 👨‍💻 My projects are available at： [http://www.diginfo.me](http://www.diginfo.me)
 
 - 📫 How to reach me： **freezesoul@live.com**
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=freezesoul&label=Profile%20views&color=0e75b6&style=flat" alt="freezesoul" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
