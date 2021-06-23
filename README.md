@@ -9,9 +9,9 @@ I am currently focusing on the project --- DataColour. [Document](http://doc.dat
 
 - 👯 I’m currently working on： [DataColour](https://gitee.com/DataColour)
 
-- 👨‍💻 My projects are available at： [http://www.diginfo.me](http://www.diginfo.me)
+- 👨‍💻 My personal website： [http://www.diginfo.me](http://www.diginfo.me)
 
-- 📫 How to reach me： **freezesoul@live.com**
+- 📫 You can contact me： **freezesoul@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
