@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm FreezeSoul</h1>
 <h3 align="center">A passionate fullstack developer from China</h3>
 
-
-<img align="left" src="http://doc.datacolour.cn/dvp/visualeditor.jpg" alt="datacolour" />
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=freezesoul&label=Profile%20views&color=0e75b6&style=flat" alt="freezesoul" /> </p>
+<p align="left"> <img src="http://doc.datacolour.cn/dvp/visualeditor.jpg" alt="datacolour" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freezesoul" alt="freezesoul" /></a> </p>
 
@@ -25,3 +21,5 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=freezesoul&show_icons=true&locale=en" alt="freezesoul" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=freezesoul&label=Profile%20views&color=0e75b6&style=flat" alt="freezesoul" /> </p>
