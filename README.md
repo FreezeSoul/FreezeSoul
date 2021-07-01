@@ -7,7 +7,7 @@ I am currently focusing on my project --- DataColour. [Document](http://doc.data
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freezesoul&label=Profile%20views&color=0e75b6&style=flat" alt="freezesoul" /> </p>
 
-- 👯 DataColour Organizations： [DataColour](https://gitee.com/DataColour)
+- 👯 DataColour Organization： [DataColour](https://gitee.com/DataColour)
 
 - 👨‍💻 My personal website： [http://www.diginfo.me](http://www.diginfo.me)
 
