@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm FreezeSoul</h1>
 <h3 align="center">A passionate fullstack developer from China</h3>
 
-I am currently focusing on my project --- DataColour. [Document](http://doc.datacolour.cn/zh/dvp/product-description)
+I am currently focusing on my project --- DataColour. [Document](http://doc.datacolour.cn/zh/dvp/product-description) [Organization](https://gitee.com/DataColour) .
 
 <p align="left"> <img src="http://doc.datacolour.cn/dvp/visualeditor.jpg" alt="datacolour" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freezesoul&label=Profile%20views&color=0e75b6&style=flat" alt="freezesoul" /> </p>
 
-- 👯 DataColour Organization： [DataColour](https://gitee.com/DataColour)
+- 👯 My projects on gitee： [https://gitee.com/freezesoul](https://gitee.com/freezesoul)
 
 - 👨‍💻 My personal website： [http://www.diginfo.me](http://www.diginfo.me)
 
