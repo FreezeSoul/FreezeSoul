@@ -3,7 +3,7 @@
 
 I am currently focusing on my project --- DataColour. [Document](http://doc.datacolour.cn/zh/dvp/product-description) | [Organization](https://gitee.com/DataColour) .
 
-<p align="left"> <img src="http://doc.datacolour.cn/dvp/visualeditor.jpg" alt="datacolour" /> </p>
+<p align="left"> <img src="http://39.101.138.43:8686/dvp/visualeditor.jpg" alt="datacolour" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freezesoul&label=Profile%20views&color=0e75b6&style=flat" alt="freezesoul" /> </p>
 
