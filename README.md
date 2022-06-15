@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm FreezeSoul</h1>
 <h3 align="center">A passionate fullstack developer from China</h3>
 
-I am currently focusing on my project --- DataColour. [Document](http://doc.datacolour.cn/zh/dvp/product-description) | [Organization](https://gitee.com/DataColour) .
+I am currently focusing on my project --- DataColour. [Document](http://39.101.138.43:8686/zh/dvp/product-description) | [Organization](https://gitee.com/DataColour) .
 
 <p align="left"> <img src="http://39.101.138.43:8686/dvp/visualeditor.jpg" alt="datacolour" /> </p>
 
