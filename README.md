@@ -22,13 +22,3 @@ I am currently focusing on my project --- DataColour. [Document](http://39.101.1
 <a href="https://space.bilibili.com/22079420" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/bilibili.svg" alt="freezesoul" height="30" width="40" /></a> 
 </p>
 
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=freezesoul&show_icons=true&hide_border=true&icon_color=C9F9D9&hide_title=true&count_private=true" />
-
-  <td align="center" style="padding=0;width=70%;">
-     <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=freezesoul&layout=compact&show_icons=true&hide_border=true&icon_color=f0f0f000&count_private=true" />
-    </td>
-  </tr>
-</table>
